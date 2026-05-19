@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/no-return-baby/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for No Return Baby](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/no-return-baby/) |
+| **Get License** | [Secure Licensing Rights for No Return Baby](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/no-return-baby/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhiyan de kaale jaadu mind blown kudiye,
+> Saari raat takda haan face tera heeriye,
+> Naina di khumari aisi wild soul jaani,
+> Dil mera luteya ae rule breaker raani.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
