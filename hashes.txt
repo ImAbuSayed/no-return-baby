@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - No Return Baby
+
+This log tracks the cryptographic history and versioning for the song **No Return Baby** (no-return-baby).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-20T02:53:45.194700 | `v1` | `dd37d535998855c9bca7932cc07e08eb8611ebb55b45283e8989d7853fe3ce4b` | `c1c587871809d2f021c1258919e730de7b61ab9c36b377b151d4a85d1dd12689` | `2026-05-20_no-return-baby-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

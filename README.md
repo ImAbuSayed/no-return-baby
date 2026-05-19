@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/no-return-baby/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for No Return Baby](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/no-return-baby/) |
+| **Get License** | [Official Music Licensing for No Return Baby](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/no-return-baby/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `dd37d535998855c9bca7932cc07e08eb8611ebb55b45283e8989d7853fe3ce4b` |
 | **Timestamp** | May 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
